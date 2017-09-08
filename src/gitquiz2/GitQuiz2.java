@@ -26,6 +26,12 @@ public class GitQuiz2 {
         System.out.println("\nThere are 10 types of people in the world: those who understand binary, and those who don't.");
 
     }
+    public static void Garber(){
+        System.out.println("What did the spider do on the computer?\n");
+        System.out.println("Made a website!\n");
+        System.out.println("What is a computer virus?\n");
+        System.out.println("A terminal illness");
+    }
     /**
      * @param args the command line arguments
      */
@@ -35,7 +41,11 @@ public class GitQuiz2 {
         Chow();
 
         Cottrell();
+
+        Garber();
+
         Mach();
+
 
     }
     

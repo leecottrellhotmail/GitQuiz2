@@ -10,7 +10,11 @@ package gitquiz2;
  * @author lee_c
  */
 public class GitQuiz2 {
-
+    public static void Mach()
+    {
+        System.out.println("Id like to make the world a better place");       
+        System.out.println("but they wont give me the source code");  
+    }
     public static void Cottrell(){
         System.out.println("A DBA walks into a bar, approaches two tables and says ");
         System.out.println("'Hey, mind if I join you?'");
@@ -22,6 +26,7 @@ public class GitQuiz2 {
     public static void main(String[] args) {
         // TODO code application logic here
         Cottrell();
+        Mach();
     }
     
 }

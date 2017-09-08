@@ -16,12 +16,16 @@ public class GitQuiz2 {
         System.out.println("'Hey, mind if I join you?'");
         System.out.println("\nThere are 10 types of people in the world: those who understand binary, and those who don't.");
     }
+    public static void Negri(){
+        System.out.println("Why does Snoop Dogg always carry an umbrella?");
+        System.out.println("FO DRIZZLE!");
+    }
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Cottrell();
+        Negri();
     }
     
 }

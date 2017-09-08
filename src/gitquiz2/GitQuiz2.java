@@ -26,11 +26,20 @@ public class GitQuiz2 {
         System.out.println("\nThere are 10 types of people in the world: those who understand binary, and those who don't.");
 
     }
+
+        public static void Dombroski(){
+        System.out.println("What stopped winter from coming?");
+        System.out.println("Winterfell and it can't get up.");
+        System.out.println();
+        System.out.println("What three rings do you need to marry one of Walder Frey's daughters?");
+        System.out.println("Wedding Ring, suffe-ring, and a murder-ring");
+}
     public static void Garber(){
         System.out.println("What did the spider do on the computer?\n");
         System.out.println("Made a website!\n");
         System.out.println("What is a computer virus?\n");
         System.out.println("A terminal illness");
+
     }
     /**
      * @param args the command line arguments
@@ -45,6 +54,7 @@ public class GitQuiz2 {
         Garber();
 
         Mach();
+        Dombroski();
 
 
     }

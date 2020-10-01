@@ -26,6 +26,20 @@ public class GitQuiz2 {
         System.out.println("\nThere are 10 types of people in the world: those who understand binary, and those who don't.");
 
     }
+    public static void Chow(){
+        System.out.println("['hip','hip']");
+    }
+    public static void Mach()
+    {
+        System.out.println("Id like to make the world a better place");       
+        System.out.println("but they wont give me the source code");  
+    }
+    public static void Cottrell(){
+        System.out.println("A DBA walks into a bar, approaches two tables and says ");
+        System.out.println("'Hey, mind if I join you?'");
+        System.out.println("\nThere are 10 types of people in the world: those who understand binary, and those who don't.");
+
+    }
 
         public static void Dombroski(){
         System.out.println("What stopped winter from coming?");
